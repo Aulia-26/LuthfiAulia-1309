@@ -1,7 +1,5 @@
 package inheritance
 
-import Polymorphism.karyawan
-
 class Dosen : karyawan() {
 
     var prodi: String=""
