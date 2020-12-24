@@ -1,7 +1,5 @@
 package inheritance
 
-import Polymorphism.karyawan
-
 class Satpam : karyawan() {
 
     var pos: String=""
