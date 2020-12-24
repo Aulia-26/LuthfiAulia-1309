@@ -1,7 +1,5 @@
 package inheritance
 
-import Polymorphism.orang
-
 open class karyawan : orang() {
     var nip: String=""
     var gaji: Int=0
