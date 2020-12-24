@@ -1,7 +1,5 @@
 package inheritance
 
-import Polymorphism.orang
-
 class Mahasiswa : orang() {
 
     var nim: String=""
